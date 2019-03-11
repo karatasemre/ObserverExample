@@ -45,4 +45,6 @@ public class TrafficLambsActivity extends AppCompatActivity implements Observer 
             }
         }
     }
+
+
 }

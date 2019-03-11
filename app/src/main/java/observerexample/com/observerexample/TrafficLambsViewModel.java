@@ -35,8 +35,6 @@ public class TrafficLambsViewModel extends Observable {
         }.start();
     }
 
-
-
     public int getCounterVal() {
         return counter;
     }
