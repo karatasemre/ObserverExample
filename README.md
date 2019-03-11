@@ -1,4 +1,4 @@
-# ObserverExample
+# Observer Example
 
 The Observer Pattern is a software design pattern that establishes a one-to-many dependency between objects. Anytime the state of one of the objects (the "subject" or "observable") changes, all of the other objects ("observers") that depend on it are notified.
 
